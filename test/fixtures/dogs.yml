@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  race_name: MyString
+  img_url: MyString
+  times_picked_at_random: 1
+  timestamps: MyString
+
+two:
+  race_name: MyString
+  img_url: MyString
+  times_picked_at_random: 1
+  timestamps: MyString
